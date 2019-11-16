@@ -1,0 +1,1 @@
+Run test_part_1.m to test all of the input images.  Should only take about 10 seconds.
